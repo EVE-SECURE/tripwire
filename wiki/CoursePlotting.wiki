@@ -10,7 +10,7 @@ Previous features that will be continued:
 
 Additional features:
   * Path finding preferences:
-    * Prefer Safe/UnSafe
+    * Prefer Safe/Less Secure
     * Avoid specific systems
     * Based on player security status
     * Based on player faction standing
