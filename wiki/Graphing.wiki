@@ -1,0 +1,16 @@
+= Graphing =
+
+Google's charting tool API will be used to provide any visual graphs, with the primary focus being the Jump/Kill history of a system.
+
+[https://developers.google.com/chart/interactive/docs/index Google Charts]
+
+== Features ==
+
+Previous features that will be continued:
+  * Mouse hover for detailed plot data
+  * Toggling of data
+  * Multiple options for data span (24/48/Week?)
+
+Additional features
+  * Update interval based on API updates
+  * AJAX loading of data - instead of front loading
