@@ -1,0 +1,20 @@
+= Course Plotting =
+
+A custom-built javascript algorithm based on the [http://en.wikipedia.org/wiki/Dijkstra's_algorithm Dijkstra search algorithm].
+
+= Features =
+
+Previous features that will be continued:
+  * Wormhole shortcut path finding
+  * Prefer safe path finding
+
+Additional features:
+  * Path finding preferences:
+    * Prefer Safe/UnSafe
+    * Avoid specific systems
+    * Based on player security status
+    * Based on player faction standing
+    * Optimize waypoints
+  * Client based instead of server based
+  * Find nearest X (ex. locator agent)
+  * In-game autopilot manipulation
