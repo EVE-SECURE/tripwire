@@ -14,3 +14,4 @@ Previous features that will be continued:
 Additional features
   * Update interval based on API updates
   * AJAX loading of data - instead of front loading
+    * Both attainable via [https://developers.google.com/chart/interactive/docs/reference#google.visualization.drawchart .drawChart()] method (dataSourceUrl/refreshInterval)
