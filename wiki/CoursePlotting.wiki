@@ -2,7 +2,7 @@
 
 A custom-built javascript algorithm based on the [http://en.wikipedia.org/wiki/Dijkstra's_algorithm Dijkstra search algorithm].
 
-= Features =
+== Features ==
 
 Previous features that will be continued:
   * Wormhole shortcut path finding
