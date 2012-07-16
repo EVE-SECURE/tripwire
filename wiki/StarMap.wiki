@@ -1,0 +1,13 @@
+= Star Map =
+
+A 2d HTML5 canvas based star map.
+
+== Features ==
+
+Features:
+  * Entire EVE universe including wormholes
+  * Detailed system information (stations, planets, ect.)
+  * Voluntary pilot position tracking
+  * Scaling (zooming) and panning (moving)
+
+more features as testing limitations continues
