@@ -2,6 +2,10 @@
 
 A custom-built javascript algorithm based on the [http://en.wikipedia.org/wiki/Dijkstra's_algorithm Dijkstra search algorithm].
 
+== WIP pages ==
+
+[http://eft.is-very-evil.org/daim/test/guidance.html Course Plotter]
+
 == Features ==
 
 Previous features that will be continued:
