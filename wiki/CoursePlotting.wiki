@@ -24,4 +24,4 @@ Additional features:
   * In-game autopilot manipulation
 
 == Updates/Progress: ==
-7/18: After testing a page with 20 systems needing calculation for testing load, I've found some drawbacks that must be resolved. While calculating the browser is locked and the page is un-responsive. 2 solutions have come to mind: HTML5 web workers (threading javascript) and a load balancing addon to the javascript algorithm. Testing the EVE IGB for compatibility resulted in frequent crashes. Began design phase of load balance addon.
+7/18: After testing a page with 20 systems needing calculation for testing load, I've found some drawbacks that must be resolved. While calculating the browser is locked and the page is un-responsive. 2 solutions have come to mind: HTML5 web workers (threading javascript) and a load balancing addon to the javascript algorithm. Testing the EVE IGB for compatibility resulted in frequent crashes. Began design phase of load balance addon. [http://www.julienlecomte.net/blog/2007/10/28/ possible solution]
