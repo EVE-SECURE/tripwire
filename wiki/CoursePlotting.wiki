@@ -4,8 +4,8 @@ A custom-built javascript algorithm based on the [http://en.wikipedia.org/wiki/D
 
 == WIP pages ==
 
-  *[http://eft.is-very-evil.org/daim/test/guidance.html Course Plotter]
-  *[http://eft.is-very-evil.org/daim/test/guidanceLoad.html Load test]
+  * [http://eft.is-very-evil.org/daim/test/guidance.html Course Plotter]
+  * [http://eft.is-very-evil.org/daim/test/guidanceLoad.html Load test]
 
 == Features ==
 
